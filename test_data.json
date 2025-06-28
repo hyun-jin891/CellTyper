@@ -1,0 +1,202 @@
+[
+  {
+    "Instruction": "CD163, FCER1G, TYROBP, FCGR2A, C1QA, LYZ, C5AR1, C1QB, MS4A7, C1QC",
+    "Output": "macrophage"
+  },
+  {
+    "Instruction": "APOD, DCN, GPX3, MGP, C1S, COL6A3, ADH1B, SERPING1, LAMA2, CFD",
+    "Output": "mesenchymal stem cell"
+  },
+  {
+    "Instruction": "TRAC, CD52, CD3G, IL7R, IL32, CD3D, TRBC2, ARHGDIB, PTPRC, FYB1",
+    "Output": "CD4-positive, alpha-beta T cell"
+  },
+  {
+    "Instruction": "MS4A1, HLA-DRA, CD79A, IRF8, CD74, TNFRSF13C, BANK1, ADAM28, BCL11A, CD52",
+    "Output": "memory B cell"
+  },
+  {
+    "Instruction": "COL1A2, DCN, C1R, C1S, MMP2, SERPINF1, FBLN1, COL6A3, FSTL1, MGP",
+    "Output": "fibroblast"
+  },
+  {
+    "Instruction": "CCL5, CXCR4, ARHGDIB, CST7, CD2, CD3G, PTPRC, TRBC2, IL32, CD3D",
+    "Output": "CD8-positive, alpha-beta T cell"
+  },
+  {
+    "Instruction": "LYZ, S100A9, S100A8, CD163, SLC11A1, VCAN, CTSS, TYROBP, CYBB, MNDA",
+    "Output": "monocyte"
+  },
+  {
+    "Instruction": "KRT14, KRT5, KRT6A, SFN, KRT16, S100A2, CSTA, S100A8, KRT13, DSP",
+    "Output": "basal cell"
+  },
+  {
+    "Instruction": "MZB1, SSR4, SEC11C, FKBP11, DERL3, PRDX4, TXNDC5, XBP1, PIM2, ISG20",
+    "Output": "plasma cell"
+  },
+  {
+    "Instruction": "MS4A1, CD74, CD79A, HLA-DRA, CD52, TNFRSF13C, IRF8, ADAM28, CXCR4, BANK1",
+    "Output": "B cell"
+  },
+  {
+    "Instruction": "IL7R, CXCR4, PTPRC, CD69, TRBC2, CD3E, TRAC, FYN, SMCHD1, BTG1",
+    "Output": "T cell"
+  },
+  {
+    "Instruction": "ACKR1, VWF, AQP1, TM4SF1, PECAM1, ADAMTS9, IFI27, PLVAP, SELE, IL6",
+    "Output": "endothelial cell of vascular tree"
+  },
+  {
+    "Instruction": "S100A9, SLC11A1, LYZ, S100A8, VCAN, FCN1, CTSS, CYBB, C5AR1, FGR",
+    "Output": "classical monocyte"
+  },
+  {
+    "Instruction": "KLRD1, GNLY, NKG7, PRF1, GZMB, CST7, CTSW, FCGR3A, KLRK1, FCER1G",
+    "Output": "natural killer cell"
+  },
+  {
+    "Instruction": "S1PR1, EPAS1, VWF, PECAM1, A2M, PLVAP, AQP1, TM4SF1, SPARCL1, LIMS2",
+    "Output": "endothelial cell"
+  },
+  {
+    "Instruction": "NNMT, SPARCL1, MT1X, CXCL14, PON2, IGFBP5, MEG3, CRYAB, MYF5, GPX3",
+    "Output": "skeletal muscle satellite stem cell"
+  },
+  {
+    "Instruction": "A2M, FABP4, SPARCL1, VWF, IFI27, EPAS1, TM4SF1, CAV1, ADGRF5, PECAM1",
+    "Output": "capillary endothelial cell"
+  },
+  {
+    "Instruction": "CELA3A, CPA1, REG1A, CLPS, GP2, PRSS1, CELA3B, PNLIP, SPINK1, PNLIPRP1",
+    "Output": "pancreatic acinar cell"
+  },
+  {
+    "Instruction": "CD69, CXCR4, IL7R, TSC22D3, TNFAIP3, DUSP1, ZFP36L2, PIK3IP1, CD52, TRAC",
+    "Output": "innate lymphoid cell"
+  },
+  {
+    "Instruction": "KRT6A, KRT16, KRT13, S100A8, SPRR2A, SFN, KRT6C, KRT5, KRT14, KRT6B",
+    "Output": "immune cell"
+  },
+  {
+    "Instruction": "CCL5, DUSP2, CD69, CXCR4, CST7, PTPRC, CCL4, IL32, RGS1, NKG7",
+    "Output": "CD8-positive, alpha-beta memory T cell"
+  },
+  {
+    "Instruction": "MTCO3P12, PIGR, MT-CO3, PHGR1, MT-ND4L, MTCO2P2, MT-CO2, MT-ATP8, MT-CYB, MTCO2P12",
+    "Output": "enterocyte of epithelium of small intestine"
+  },
+  {
+    "Instruction": "C3, C1R, IGFBP6, C1S, SERPINF1, DCN, GSN, GPX3, SERPING1, FSTL1",
+    "Output": "adventitial cell"
+  },
+  {
+    "Instruction": "TPSB2, TPSAB1, KIT, CPA3, IL1RL1, HPGDS, RGS2, HDC, TPSD1, SRGN",
+    "Output": "mast cell"
+  },
+  {
+    "Instruction": "S100A9, S100A8, CSF3R, IL1R2, FPR1, S100A12, SLC11A1, BASP1, SPI1, AQP9",
+    "Output": "neutrophil"
+  },
+  {
+    "Instruction": "CD69, TRAC, IL7R, CXCR4, FYB1, TRBC1, CD3G, CD52, TRBC2, IL32",
+    "Output": "CD4-positive, alpha-beta memory T cell"
+  },
+  {
+    "Instruction": "MYL9, NOTCH3, IGFBP7, CALD1, ACTA2, SPARCL1, TIMP3, RGS5, ADAMTS1, SPARC",
+    "Output": "pericyte cell"
+  },
+  {
+    "Instruction": "SEMG1, SEMG2, CYP4F8, PIP, AKR1B1, PRPS2, FADS2, FDX1, PGC, CD24",
+    "Output": "LTF+ epithelial cell"
+  },
+  {
+    "Instruction": "IL7R, CD69, TRAC, CD3G, CXCR4, SARAF, TSC22D3, CD52, IL32, CCR7",
+    "Output": "naive thymus-derived CD4-positive, alpha-beta T cell"
+  },
+  {
+    "Instruction": "SFTPB, SFTA2, SFTPA2, SFTPA1, SLC34A2, SFTPC, NAPSA, SLPI, SFTPD, PEBP4",
+    "Output": "type II pneumocyte"
+  },
+  {
+    "Instruction": "IGHM, MS4A1, TCL1A, IGHD, FCRL1, CD79A, CD74, BCL11A, HLA-DRA, CD52",
+    "Output": "naive B cell"
+  },
+  {
+    "Instruction": "KRT19, MIR205HG, TACSTD2, CD9, F3, S100A2, PERP, KRT15, KRT17, ATP1B1",
+    "Output": "respiratory basal cell"
+  },
+  {
+    "Instruction": "MT-RNR1, MT-TL1, MT-RNR2, MTCO3P12, MTND1P23, MTCO2P2, PHGR1, PIGR, MT-ND4L, MT-CO3",
+    "Output": "enterocyte of colon"
+  },
+  {
+    "Instruction": "PSCA, S100P, KRT19, TMPRSS4, ELF3, GPX2, SNCG, CLDN4, GDF15, KLF5",
+    "Output": "bladder urothelial cell"
+  },
+  {
+    "Instruction": "S100A8, LTF, S100A9, PGLYRP1, S100A12, MMP8, MMP9, MNDA, CYP4F3, LCN2",
+    "Output": "CD24 neutrophil"
+  },
+  {
+    "Instruction": "RPS18P5, RPS3AP6, RPS3AP26, RPS18, RPS23P8, RPS21, RPS24, RPS3A, RPL34, RPS23",
+    "Output": "hematopoietic stem cell"
+  },
+  {
+    "Instruction": "VWF, PLVAP, AQP1, PECAM1, IFI27, EMCN, SPARCL1, ACKR1, A2M, S1PR1",
+    "Output": "vein endothelial cell"
+  },
+  {
+    "Instruction": "FXYD2, CRYAB, PDZK1IP1, ALDOB, SPP1, GPX3, ASS1, GATM, PCK1",
+    "Output": "kidney epithelial cell"
+  },
+  {
+    "Instruction": "CXCR4, CD69, RPS27, IL7R, TRAC, RPS29, RPS19, RPS27P17, RPS27P4, FYB1",
+    "Output": "CD4-positive helper T cell"
+  },
+  {
+    "Instruction": "TAGLN, ACTA2, MYL9, IGFBP5, MCAM, CALD1, TPM2, NOTCH3, IGFBP7, MAP1B",
+    "Output": "vascular associated smooth muscle cell"
+  },
+  {
+    "Instruction": "CXCR4, IL7R, CREM, CD69, RPS27P13, B2M, SRGN, RPS27, CCL4, RPS4Y1",
+    "Output": "leucocyte"
+  },
+  {
+    "Instruction": "NKG7, PRF1, CTSW, GNLY, KLRD1, CST7, GZMB, CCL4, CCL5, PTPRC",
+    "Output": "mature natural killer T cell"
+  },
+  {
+    "Instruction": "TYROBP, FCER1G, TYMP, AIF1, LYZ, ITGAX, MS4A7, SLC11A1, PLAUR, IFI30",
+    "Output": "myeloid cell"
+  },
+  {
+    "Instruction": "FCN3, EPAS1, SLC6A4, AQP1, IFI27, RAMP2, PECAM1, CALCRL, RNASE1, VIPR1",
+    "Output": "pulmonary capillary endothelial cell"
+  },
+  {
+    "Instruction": "CD3E, IL7R, CXCR4, JUNB, CD69, FYB1, TRAC, TCF7, CD3G, BTG1",
+    "Output": "CD4-positive alpha-beta thymocyte"
+  },
+  {
+    "Instruction": "CD24, KRT19, SAA1, MGP, MTCO1P12, MTND4P12, KRT15, ELF3, DSG2, FTH1P23",
+    "Output": "luminal progenitor cell"
+  },
+  {
+    "Instruction": "CFTR, SLC4A4, FXYD2, ANXA4, KRT8, ATP1B1, CLDN10, CLU, KRT18, TACSTD2",
+    "Output": "pancreatic ductal cell"
+  },
+  {
+    "Instruction": "PRR4, OPRPN, LCN1, PIP, LYZ, SCGB2A1, LACRT, HELLPAR, LTF, SCGB1D1",
+    "Output": "lacrimal gland functional unit cell"
+  },
+  {
+    "Instruction": "VWF, S1PR1, F8, NHERF2, SPARCL1, GNG11, STOM, CD59, A2M, ENG",
+    "Output": "cardiac endothelial cell"
+  },
+  {
+    "Instruction": "MT-RNR2, MT-RNR1, 7SK, PIGR, PHGR1, MTND1P23, ELF3, MTCO3P12, LGALS4, KRT8",
+    "Output": "goblet cell of colon"
+  }
+]
